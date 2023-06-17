@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "862968830429",
+    "firebase_url": "https://book-app-7709e-default-rtdb.firebaseio.com",
+    "project_id": "book-app-7709e",
+    "storage_bucket": "book-app-7709e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862968830429:android:6f1c9978437f38e8d8fe34",
+        "android_client_info": {
+          "package_name": "com.example.KomeMajorProj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862968830429-cu0s00f8st1mv24p63r9qh7gksbkc56m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.KomeMajorProj",
+            "certificate_hash": "2d80a02207af2a37d171074e0549b6da83f412d7"
+          }
+        },
+        {
+          "client_id": "862968830429-cgm874sulvbiopift1ibnb47nmsaqnu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vqWkq9rwwcHKJBgVyQgL1D97oouYrPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862968830429-cgm874sulvbiopift1ibnb47nmsaqnu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862968830429:android:67f2f6d30aa417b3d8fe34",
+        "android_client_info": {
+          "package_name": "com.example.majorprojectbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862968830429-9mdpvho003sevhj8d9a8ha8brnmpmjsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majorprojectbookapp",
+            "certificate_hash": "2d80a02207af2a37d171074e0549b6da83f412d7"
+          }
+        },
+        {
+          "client_id": "862968830429-cgm874sulvbiopift1ibnb47nmsaqnu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vqWkq9rwwcHKJBgVyQgL1D97oouYrPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862968830429-cgm874sulvbiopift1ibnb47nmsaqnu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
